@@ -85,7 +85,7 @@ body{
     align-items: center;
     height: 400px;
     min-height: 105px;
-    background-image: url(./resources/mexicobg.jpg);
+    background-image: url(/resources/mexicobg.jpg);
     background-size: cover;
     background-position: center;
     overflow: hidden;}
@@ -103,7 +103,7 @@ h1{
         align-items: center;
         height: 400px;
         min-height: 105px;
-        background-image: url(./resources/sanfranbg.jpg);
+        background-image: url(/resources/sanfranbg.jpg);
         background-size: cover;
         background-position: center;
         overflow: hidden;}
